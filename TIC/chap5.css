@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 4px solid rgba(6, 109, 20, 0.831);
+    border-radius: 16px;
+    color: rgb(0, 255, 51);
+    background-color: bisque;
+}
+body{
+    width: 90%;
+    margin : 8px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 28px;
+    border: 20px solid #33cc47;
+    border-radius: 20px ;
+    box-shadow: 2px 4px 3px black;
+    padding: 20px;
+
+}
+
+.section{
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
+}
+h2{
+    color: #33bb69;
+    font-size: 28px;
+    border-bottom:3px solid #33dd55;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+ .image-background{
+        background-image: url("C:\Users\dell\Documents\Activité 4\image\tel.png");
+        background-size: cover; /* ajuste la taille de l'image pour remplir la div */
+        background-position: center;
+        height: 150px;
+
+}
+.image{
+    height: 200px; 
+  }
+
+h3{
+
+    color: #33bb6e;
+    font-size: 20px;
+}
